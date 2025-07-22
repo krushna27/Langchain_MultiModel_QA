@@ -9,3 +9,7 @@ Build a simple prompt chain,
 Display the model’s answer in response to the user’s input.
 
 Supports single or multiple models, enabling quick comparison or flexible model selection.
+
+```sh
+pip install langchain langchain-core langchain-google-genai langchain-openai
+```
